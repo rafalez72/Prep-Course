@@ -1,0 +1,16 @@
+.img{
+    height: 150px;
+    width: 150px;
+    margin-left: 25px;
+}
+
+.body{
+    text-align:left;
+}
+
+.h3{
+    margin-left: 25px;
+}
+.bordes{
+    border: 1px;
+}
